@@ -4,7 +4,7 @@
   <h3> <em>Transformo seus dados em decisões inteligentes.</em> </h3>
 </div>
 
-**Desenvolvedor | Analista de Dados | Business Intelligence**  
+**Desenvolvedor | Cientista de Dados | Business Intelligence**  
 
 ---
 
