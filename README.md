@@ -27,7 +27,7 @@
 
 ---
 
-## **🚀 Projetos em Destaque**  
+## **🚀 Projeto em Destaque**  
 
 🔹 **[Gerenciador financeiro com Python](https://github.com/Helmelhor/melhoria-financeiro)**  
 - Controlador de finanças com dashboard  
@@ -41,8 +41,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helmer-barcelos-a46734289/)
 
 ---
-
-## **📈 Objetivos**  
-✅ **Aprofundar conhecimentos** em Data Science & ML  
-✅ **Automatizar processos**  
-✅ **Desenvolver visualizações** para decisões estratégicas   
