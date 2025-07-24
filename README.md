@@ -6,6 +6,8 @@
 
 **Desenvolvedor | Cientista de Dados | Business Intelligence**  
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=github&logoColor=white)](https://helmelhor.github.io/Portfolio/#)
+
 ---
 
 ## **🛠️ Tecnologias & Ferramentas**  
