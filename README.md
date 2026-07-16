@@ -4,7 +4,7 @@
   <h3> <em>Transformo seus dados em decisões inteligentes.</em> </h3>
 </div>
 
-**Desenvolvedor | Analista de Dados | Business Intelligence**  
+**Desenvolvedor | Cientista de Dados | Business Intelligence**  
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=github&logoColor=white)](https://helmelhor.github.io/Portfolio/#)
 
